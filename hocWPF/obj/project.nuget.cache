@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "F4mWHa36DTg=",
+  "dgSpecHash": "AS3Rosf79Gs=",
   "success": true,
-  "projectFilePath": "D:\\HK1_Nam2\\Lap_trinh_truc_quan\\hocWPF_va_XAML\\hocWPF\\hocWPF\\hocWPF.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\TestGameDuckLove\\TestGit\\hocWPF\\hocWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }

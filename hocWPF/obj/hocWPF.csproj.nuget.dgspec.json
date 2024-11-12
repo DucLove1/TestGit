@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HK1_Nam2\\Lap_trinh_truc_quan\\hocWPF_va_XAML\\hocWPF\\hocWPF\\hocWPF.csproj": {}
+    "D:\\TestGameDuckLove\\TestGit\\hocWPF\\hocWPF.csproj": {}
   },
   "projects": {
-    "D:\\HK1_Nam2\\Lap_trinh_truc_quan\\hocWPF_va_XAML\\hocWPF\\hocWPF\\hocWPF.csproj": {
+    "D:\\TestGameDuckLove\\TestGit\\hocWPF\\hocWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HK1_Nam2\\Lap_trinh_truc_quan\\hocWPF_va_XAML\\hocWPF\\hocWPF\\hocWPF.csproj",
+        "projectUniqueName": "D:\\TestGameDuckLove\\TestGit\\hocWPF\\hocWPF.csproj",
         "projectName": "hocWPF",
-        "projectPath": "D:\\HK1_Nam2\\Lap_trinh_truc_quan\\hocWPF_va_XAML\\hocWPF\\hocWPF\\hocWPF.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\HK1_Nam2\\Lap_trinh_truc_quan\\hocWPF_va_XAML\\hocWPF\\hocWPF\\obj\\",
+        "projectPath": "D:\\TestGameDuckLove\\TestGit\\hocWPF\\hocWPF.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\TestGameDuckLove\\TestGit\\hocWPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:hocWPF"
         xmlns:userControl="clr-namespace:hocWPF.View.userControl"
+        xmlns:abcd="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Margin="0,4,0,-4">
@@ -16,5 +17,10 @@
         <userControl:MenuBar>
             
         </userControl:MenuBar>
+        <StackPanel>
+            <!--<Button Style="{StaticResource MaterialDesignIconButton}" Background="Red">Hello</Button>-->
+            <!--<Button>Exit</Button>-->
+            <abcd:NumericUpDown/>
+        </StackPanel>
     </Grid>
 </Window>

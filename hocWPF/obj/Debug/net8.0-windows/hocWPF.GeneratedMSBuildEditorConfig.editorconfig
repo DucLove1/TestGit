@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hocWPF
-build_property.ProjectDir = D:\HK1_Nam2\Lap_trinh_truc_quan\hocWPF_va_XAML\hocWPF\hocWPF\
+build_property.ProjectDir = D:\TestGameDuckLove\TestGit\hocWPF\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
